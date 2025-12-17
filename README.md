@@ -1,0 +1,2 @@
+# Picika
+Projek fisikanya HaMa
